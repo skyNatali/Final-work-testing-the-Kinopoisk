@@ -1,4 +1,4 @@
-[README Кинопоиск.md](https://github.com/user-attachments/files/22584465/README.md)
+[README Кинопоиск.md](https://github.com/user-attachments/files/22584480/README.md)
 [README Кинопоиск.md](https://github.com/user-attachments/files/22574779/README.md)
 # <a name="up" />Финальный проект - тестирование сайта  [Кинопоиск](https://www.kinopoisk.ru/)
 
@@ -476,7 +476,7 @@
 - **Значительные дефекты:** 2 (#KINO-2, #KINO-3)
 - **Незначительные дефекты:** 1 (#KINO-1)
 
-### Тестовые артефакты
+## <a name="Тестовые артефакты" />Тестовые артефакты
 
 Ниже представлены некоторые из тест-кейсов и чек-листов, разработанных в рамках тестирования:
 
